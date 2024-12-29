@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\reservas\\crearreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\reservas\\crearreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\salas\\salas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\salas\\salas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\salas\\creareditarsala.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\salas\\creareditarsala.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\reservas\\reservas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\reservas\\reservas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\reservas\\crearreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\reservas\\crearreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\data\\salarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\data\\salarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\data\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\data\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\controllers\\salascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\controllers\\salascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\salas\\creareditarsala.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\salas\\creareditarsala.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\salas\\salas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\salas\\salas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|c:\\users\\57320\\source\\repos\\sistemadegestiondereservas\\sistemadegestiondereservas\\pages\\reservas\\reservas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174FB134-FC64-4159-9A85-37DB6E800E4D}|SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas.csproj|solutionrelative:sistemadegestiondereservas\\pages\\reservas\\reservas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Models\\Reserva.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:36:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Models\\Sala.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Models\\Sala.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Models\\Sala.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Models\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:06:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearReserva.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:19:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservas.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvxQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:07:07.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrearEditarSala.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:06:40.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salas.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:06:19.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:29:01.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T18:26:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Program.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Program.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:21:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\appsettings.json",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\appsettings.json",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T21:28:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearReserva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Reservas\\CrearReserva.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:20:15.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Data\\SalaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Data\\SalaRepository.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Data\\SalaRepository.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Data\\SalaRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:20:50.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Data\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Data\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Data\\ReservaRepository.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Data\\ReservaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:54:47.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalasController.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Controllers\\SalasController.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Controllers\\SalasController.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Controllers\\SalasController.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Controllers\\SalasController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:40:52.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:59:40.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T21:29:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:28:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:28:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\appsettings.Development.json",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T21:28:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CrearEditarSala.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Salas\\CrearEditarSala.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:25:14.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reservas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Reservas\\Reservas.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:36:01.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Salas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml.cs",
+              "ToolTip": "C:\\Users\\57320\\source\\repos\\SistemaDeGestionDeReservas\\SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml.cs",
+              "RelativeToolTip": "SistemaDeGestionDeReservas\\Pages\\Salas\\Salas.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:09:11.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿@page "{id?}"
+@model SistemaDeGestionDeReservas.Pages.Salas.CrearEditarSalaModel
+@{
+    ViewData["Title"] = Model.Sala.Id == 0 ? "Crear Sala" : "Editar Sala";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input asp-for="Sala.Nombre" class="form-control" />
+        <span asp-validation-for="Sala.Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Capacidad">Capacidad</label>
+        <input asp-for="Sala.Capacidad" class="form-control" />
+        <span asp-validation-for="Sala.Capacidad" class="text-danger"></span>
+    </div>
+    <div class="form-check">
+        <input asp-for="Sala.Disponibilidad" class="form-check-input" />
+        <label asp-for="Sala.Disponibilidad" class="form-check-label">Disponible</label>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Guardar</button>
+</form>

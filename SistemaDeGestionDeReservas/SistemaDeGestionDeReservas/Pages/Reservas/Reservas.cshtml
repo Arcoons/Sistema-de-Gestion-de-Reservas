@@ -1,0 +1,35 @@
+﻿@page
+@model SistemaDeGestionDeReservas.Pages.Reservas.ReservasModel
+@{
+    ViewData["Title"] = "Gestión de Reservas";
+}
+
+<h2>Gestión de Reservas</h2>
+
+<a asp-page="./CrearReserva" class="btn btn-primary mb-3">Nueva Reserva</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Sala</th>
+            <th>Fecha</th>
+            <th>Usuario</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reserva in Model.Reservas)
+        {
+            <tr>
+                <td>@reserva.SalaId</td>
+                <td>@reserva.FechaReserva.ToString("dd/MM/yyyy")</td>
+                <td>@reserva.Usuario</td>
+                <td>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@reserva.Id" style="display:inline;">
+                        <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
