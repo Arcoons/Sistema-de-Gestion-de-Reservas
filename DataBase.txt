@@ -1,0 +1,44 @@
+CREATE DATABASE SistemaReservas;
+GO
+USE SistemaReservas;
+GO
+
+CREATE TABLE Salas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Capacidad INT NOT NULL,
+    Ubicacion NVARCHAR(200) NOT NULL,
+    Activa BIT NOT NULL DEFAULT 1
+);
+CREATE TABLE Reservas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    SalaId INT NOT NULL,
+    FechaReserva DATE NOT NULL,
+    Usuario NVARCHAR(100) NOT NULL,
+    CONSTRAINT FK_Salas_Reservas FOREIGN KEY (SalaId) REFERENCES Salas(Id)
+);
+CREATE PROCEDURE ValidarDisponibilidad
+    @SalaId INT,
+    @FechaReserva DATE
+AS
+BEGIN
+    IF EXISTS (
+        SELECT 1
+        FROM Reservas
+        WHERE SalaId = @SalaId AND FechaReserva = @FechaReserva
+    )
+    BEGIN
+        RETURN 1; -- Sala no disponible
+    END
+    RETURN 0; -- Sala disponible
+END;
+
+INSERT INTO Salas (Nombre, Capacidad, Ubicacion, Activa)
+VALUES 
+('Sala A', 50, 'Planta Baja', 1),
+('Sala B', 30, 'Planta Alta', 1),
+('Sala C', 100, 'Auditorio', 1);
+
+INSERT INTO Reservas (SalaId, FechaReserva, Usuario)
+VALUES 
+(1, '2024-01-01', 'UsuarioPrueba');
