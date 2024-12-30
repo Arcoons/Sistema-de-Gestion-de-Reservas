@@ -1,0 +1,43 @@
+﻿@model IEnumerable<SistemaReservas.Models.Reserva>
+@{
+    ViewBag.Title = "Gestión de Reservas";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Gestión de Reservas</h2>
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Usuario</th>
+                <th>Sala</th>
+                <th>Fecha de Reserva</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody id="tablaReservas">
+            @foreach (var reserva in Model)
+            {
+                <tr id="reserva_@reserva.Id">
+                    <td>@reserva.Id</td>
+                    <td>@reserva.Usuario</td>
+                    <td>@reserva.SalaNombre</td>
+                    <td>@reserva.FechaReserva.ToShortDateString()</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm btnEliminarReserva" data-id="@reserva.Id">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>$(document).on("click", ".btnEliminarReserva", function () {
+        const id = $(this).data("id");
+        $.post("/Reservas/Delete", { id: id }, function (response) {
+            if (response.success) {
+                $(`#reserva_${id}`).remove();
+            }
+        });
+    });</script>

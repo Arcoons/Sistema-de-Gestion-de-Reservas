@@ -1,0 +1,31 @@
+﻿@model SistemaReservas.Models.Sala
+@{
+    ViewBag.Title = "Crear Sala";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Crear Sala</h2>
+
+    <form method="post" action="@Url.Action("Create", "Salas")" class="mt-4">
+        <div class="mb-3">
+            <label for="Nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="Nombre" name="Nombre" required />
+        </div>
+        <div class="mb-3">
+            <label for="Capacidad" class="form-label">Capacidad</label>
+            <input type="number" class="form-control" id="Capacidad" name="Capacidad" required />
+        </div>
+        <div class="mb-3">
+            <label for="Ubicacion" class="form-label">Ubicación</label>
+            <input type="text" class="form-control" id="Ubicacion" name="Ubicacion" required />
+        </div>
+        <div class="mb-3">
+            <label for="Activa" class="form-label">Activa</label>
+            <select id="Activa" name="Activa" class="form-select">
+                <option value="true">Sí</option>
+                <option value="false">No</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+</div>

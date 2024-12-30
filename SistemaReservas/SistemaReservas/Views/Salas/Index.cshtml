@@ -1,0 +1,77 @@
+﻿@model IEnumerable<SistemaReservas.Models.Sala>
+@{
+    ViewBag.Title = "Gestión de Salas";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Gestión de Salas</h2>
+
+    <a href="#" class="btn btn-primary mb-3" id="btnAgregarSala">Agregar Nueva Sala</a>
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Capacidad</th>
+                <th>Ubicación</th>
+                <th>Activa</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody id="tablaSalas">
+            @foreach (var sala in Model)
+            {
+                <tr id="sala_@sala.Id">
+                    <td>@sala.Id</td>
+                    <td>@sala.Nombre</td>
+                    <td>@sala.Capacidad</td>
+                    <td>@sala.Ubicacion</td>
+                    <td>@(sala.Activa ? "Sí" : "No")</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm btnEliminar" data-id="@sala.Id">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>$(document).ready(function () {
+        // Eliminar una sala
+        $(document).on("click", ".btnEliminar", function () {
+            const id = $(this).data("id");
+            $.post("/Salas/DeleteAjax", { id: id }, function (response) {
+                if (response.success) {
+                    $(`#sala_${id}`).remove();
+                }
+            });
+        });
+
+        // Agregar una nueva sala (simulación rápida)
+        $("#btnAgregarSala").on("click", function () {
+            const nuevaSala = {
+                Nombre: "Nueva Sala",
+                Capacidad: 50,
+                Ubicacion: "Planta Alta",
+                Activa: true
+            };
+            $.post("/Salas/CreateAjax", nuevaSala, function (response) {
+                if (response.success) {
+                    $("#tablaSalas").append(`
+                        <tr>
+                            <td>-</td>
+                            <td>${nuevaSala.Nombre}</td>
+                            <td>${nuevaSala.Capacidad}</td>
+                            <td>${nuevaSala.Ubicacion}</td>
+                            <td>${nuevaSala.Activa ? "Sí" : "No"}</td>
+                            <td>
+                                <button class="btn btn-danger btn-sm btnEliminar">Eliminar</button>
+                            </td>
+                        </tr>
+                    `);
+                }
+            });
+        });
+    });</script>

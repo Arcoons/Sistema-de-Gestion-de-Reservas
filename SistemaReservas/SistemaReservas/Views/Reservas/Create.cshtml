@@ -1,0 +1,30 @@
+﻿@model SistemaReservas.Models.Reserva
+@{
+    ViewBag.Title = "Crear Reserva";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Crear Reserva</h2>
+
+    <form method="post" action="@Url.Action("Create", "Reservas")" class="mt-4">
+        <div class="mb-3">
+            <label for="Usuario" class="form-label">Usuario</label>
+            <input type="text" class="form-control" id="Usuario" name="Usuario" required />
+        </div>
+        <div class="mb-3">
+            <label for="SalaId" class="form-label">Sala</label>
+            <select id="SalaId" name="SalaId" class="form-select" required>
+                @foreach (var sala in ViewBag.Salas)
+                {
+                    <option value="@sala.Id">@sala.Nombre</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="FechaReserva" class="form-label">Fecha de Reserva</label>
+            <input type="date" class="form-control" id="FechaReserva" name="FechaReserva" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+</div>
+
